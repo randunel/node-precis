@@ -1,0 +1,12 @@
+{
+    "author": "Mihai Ene <dkrandu@yahoo.com>",
+    "name": "node-precis",
+    "description": "node-precis",
+    "version": "0.0.1",
+    "dependencies": {
+        "blessed": "0.1.x",
+        "request": "2.60.x",
+        "ws": "0.7.x"
+    }
+}
+
